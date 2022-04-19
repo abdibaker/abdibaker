@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T06:04:05.489Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4987.0 Safari/537.36" version="17.4.5" etag="gc3h-Z5GmTtKfZ6lUJve" type="github"><diagram id="B7llfV-1BqKeqxTC8vZW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-19T06:04:38.663Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4987.0 Safari/537.36" etag="5jZcI1YDnPRLsuebYtVh" version="17.4.5" type="github">
+  <diagram id="B7llfV-1BqKeqxTC8vZW" name="Page-1">
+    <mxGraphModel dx="868" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9de6BgvoVopv9jrIR5Z7-1" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; font-size: 14px ; font-weight: 700&quot;&gt;Event&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9de6BgvoVopv9jrIR5Z7-2" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; font-size: 14px ; font-weight: 700&quot;&gt;Fingerprint Template&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9de6BgvoVopv9jrIR5Z7-3" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; font-size: 14px ; font-weight: 700&quot;&gt;User&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9de6BgvoVopv9jrIR5Z7-4" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; font-size: 14px ; font-weight: 700&quot;&gt;Course&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9de6BgvoVopv9jrIR5Z7-5" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; font-size: 14px ; font-weight: 700&quot;&gt;Attendance&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
