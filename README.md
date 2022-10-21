@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Abdillah Bakari</h1>
 <h3 align="center">A passionate 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
-- 🔭 I’m currently working on [Attendancedeck](https://github.com/abdibaker/Attendancedeck)
+- 🔭 I’m currently working on [shuleyangu mobile App](https://github.com/abdibaker/shuleyangu)
 
-- 🌱 I’m currently learning **Sveltejs, tauri-studio**
+- 🌱 I’m currently learning **nestjs, nextjs**
 
-- 💬 Ask me about **javaScript, vue, react,**
+- 💬 Ask me about **javaScript, react, react-native, vue, **
 
 - 📫 How to reach me **abdibaker1@gmail.com**
 
