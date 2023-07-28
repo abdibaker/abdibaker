@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdibaker&show_icons=true&locale=en&layout=compact" alt="abdibaker" />
 
   <a href="https://cloud.appwrite.io/card/641c890916d4cf03d314">
-    <img  width="300" src="https://cloud.appwrite.io/v1/cards/cloud?userId=641c890916d4cf03d314" alt="Appwrite Cloud Card" />
+    <img  width="280" src="https://cloud.appwrite.io/v1/cards/cloud?userId=641c890916d4cf03d314" alt="Appwrite Cloud Card" />
   </a>
 </div>
 
