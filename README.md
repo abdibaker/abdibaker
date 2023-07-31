@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abdillah Bakari</h1>
-<h5 align="center">I'm a dedicated Computer Science undergraduate student at The State University of Zanzibar. My passion lies in developing high-performance systems and solving complex problems.</h5>
+<h4 align="center">I'm a dedicated Computer Science undergraduate student at The State University of Zanzibar. My passion lies in developing high-performance systems and solving complex problems.</h4>
 
 - 🔭 I’m currently working on [shuleyangu mobile App](https://github.com/abdibaker/shuleyangu)
 
