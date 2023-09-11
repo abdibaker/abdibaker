@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nestjs, nextjs**
 
-- 💬 Ask me about **javaScript, react, react-native, vue, **
+- 💬 Ask me about **javaScript, react, react-native, svelte, **
 
 - 📫 How to reach me **abdibaker1@gmail.com**
 
